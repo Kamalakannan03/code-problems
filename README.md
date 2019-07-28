@@ -12,6 +12,19 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   1   | [MO's Algorithm](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/algorithms/MOsAlgorithm.java)     							      |
 |   2   | [Z Algorithm](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/algorithms/ZAlgorithm.java)										  |
 
+### Data Structures
+
+|                                                         Topic Name                                                              |	Number of Problems Solved |
+|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|
+|  [Arrays](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/company/datastructures/Array/)               |            5              | 
+|  [Bit Manipulation](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/datastructures/BITManipulation/)   |            12             |
+
+### Different Coding Sites
+
+|                   Website                        | Number of Problems Solved |
+|:------------------------------------------------:|:-------------------------:|
+|   [Codewars](https://www.codewars.com/)          |             54            |
+
 ### Company Hiring Challenges
 
 | S.No. |                Company            |                                                                                           Solution                                                                         																																																																																																		      |
