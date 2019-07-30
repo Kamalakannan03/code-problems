@@ -11,12 +11,15 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |:-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |   1   | [MO's Algorithm](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/algorithms/MOsAlgorithm.java)     							      |
 |   2   | [Z Algorithm](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/algorithms/ZAlgorithm.java)										  |
+|   3   | [Reversal Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/ReversalAlgorithm.java)				      		  |
+|   4   | [Juggling Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/JugglingAlgorithm.java)							  |
+|   5   | [Euclidean Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/EuclideanAlgorithm.java)						  |
 
 ### Data Structures
 
 |                                                         Topic Name                                                              |	Number of Problems Solved |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|
-|  [Arrays](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Array)                        |            5              | 
+|  [Arrays](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Array)                        |            9              | 
 |  [Bit Manipulation](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/BITManipulation)    |            12             |
 
 ### Different Coding Sites
