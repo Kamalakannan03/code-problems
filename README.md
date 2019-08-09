@@ -19,7 +19,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 
 |                                                         Topic Name                                                              |	Number of Problems Solved |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|
-|  [Arrays](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Array)                        |            9              | 
+|  [Arrays](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Array)                        |            12             | 
 |  [Bit Manipulation](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/BITManipulation)    |            12             |
 
 ### Different Coding Sites
