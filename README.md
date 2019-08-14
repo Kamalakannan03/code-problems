@@ -7,16 +7,16 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 
 ### Algorithms
 
-| S.No. |                                                                                           Solution                   									      |
-|:-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   1   | [MO's Algorithm](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/algorithms/MOsAlgorithm.java)     							      |
-|   2   | [Z Algorithm](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/algorithms/ZAlgorithm.java)										  |
-|   3   | [Reversal Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/ReversalAlgorithm.java)				      		  |
-|   4   | [Juggling Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/JugglingAlgorithm.java)							  |
-|   5   | [Euclidean Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/EuclideanAlgorithm.java)						  |
-|   6   | [One Pass Hash Table](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/TwoSum.java)						  				  |
-|   7   | [Two Pointer Technique](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/RemoveDuplicatesFromSortedArray.java)			  |
-|   8   | [Boyer Moore Vooting Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/MajorityElement.java)			          |
+| S.No. |                                                                                           Solution                   									      																										  								  |
+|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   1   | [MO's Algorithm](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/algorithms/MOsAlgorithm.java)     							      																										    							  |
+|   2   | [Z Algorithm](https://github.com/pgeek92/code-problems/blob/master/coding-problems/src/algorithms/ZAlgorithm.java)										  																										                                  |
+|   3   | [Reversal Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/ReversalAlgorithm.java)				      		  																										                                  |
+|   4   | [Juggling Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/JugglingAlgorithm.java)							  																										                                  |
+|   5   | [Euclidean Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/EuclideanAlgorithm.java)						  																										                                  |
+|   6   | [One Pass Hash Table](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/TwoSum.java)						  				  																										                                  |
+|   7   | [Two Pointer Technique - 1](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/RemoveDuplicatesFromSortedArray.java), [Two Pointer Technique - 2](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/RemoveElement.java)			  |
+|   8   | [Boyer Moore Vooting Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/MajorityElement.java)			          																										                                  |
 
 ### Data Structures
 
@@ -32,7 +32,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   [Codewars](https://www.codewars.com/)          |            [41](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/codewars)         |
 |   [Hackerearth](https://www.hackerearth.com/)    |            [19](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerearth)      |
 |   [Hackerrank](https://www.hackerrank.com/)      |            [1](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerrank)        |
-|   [Leetcode](https://leetcode.com/)              |            [6](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)          |     
+|   [Leetcode](https://leetcode.com/)              |            [7](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)          |     
 
 ### Company Hiring Challenges
 
