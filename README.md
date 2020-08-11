@@ -25,7 +25,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 
 |                                                         Topic Name                                                              |	Number of Problems Solved |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|
-|  [Arrays](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Array)                        |            14             | 
+|  [Arrays](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Array)                        |            15             | 
 |  [Bit Manipulation](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/BITManipulation)    |            12             |
 |  [Strings](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/String)                      |            6              |
 |  [Math](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Math)							  |            4              |
