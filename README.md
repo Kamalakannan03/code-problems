@@ -20,6 +20,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   9    | [Naive Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/NaivePatternMatchingAlgorithm.java)			          																										                   |
 |   10   | [Optimized Naive Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/OptimizedNaivePatternMatchingAlgorithm.java)			          																									   |
 |   11   | [Rabin Karp Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/RabinKarpAlgorithm.java)			          																										                       |
+|   12   | [Counting Sort Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/CountingSort.java)			          																										                       |
 
 ### Data Structures
 
