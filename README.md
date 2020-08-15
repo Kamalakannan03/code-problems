@@ -20,7 +20,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   9    | [Naive Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/NaivePatternMatchingAlgorithm.java)			          																										                   |
 |   10   | [Optimized Naive Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/OptimizedNaivePatternMatchingAlgorithm.java)			          																									   |
 |   11   | [Rabin Karp Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/RabinKarpAlgorithm.java)			          																										                       |
-|   12   | [Counting Sort Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/CountingSort.java)			          																										                       |
+|   12   | [Counting Sort Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/CountingSort.java)			          																										                       					   |
 
 ### Data Structures
 
@@ -38,7 +38,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   [Codewars](https://www.codewars.com/)          |            [41](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/codewars)         |
 |   [Hackerearth](https://www.hackerearth.com/)    |            [19](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerearth)      |
 |   [Hackerrank](https://www.hackerrank.com/)      |            [1](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerrank)        |
-|   [Leetcode](https://leetcode.com/)              |            [10](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)         |     
+|   [Leetcode](https://leetcode.com/)              |            [11](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)         |     
 
 ### Company Hiring Challenges
 
