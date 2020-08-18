@@ -38,7 +38,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   [Codewars](https://www.codewars.com/)          |            [41](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/codewars)         |
 |   [Hackerearth](https://www.hackerearth.com/)    |            [19](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerearth)      |
 |   [Hackerrank](https://www.hackerrank.com/)      |            [1](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerrank)        |
-|   [Leetcode](https://leetcode.com/)              |            [12](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)         |     
+|   [Leetcode](https://leetcode.com/)              |            [14](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)         |     
 
 ### Company Hiring Challenges
 
