@@ -21,6 +21,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   10   | [Optimized Naive Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/OptimizedNaivePatternMatchingAlgorithm.java)			          																									   |
 |   11   | [Rabin Karp Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/RabinKarpAlgorithm.java)			          																										                       |
 |   12   | [Counting Sort Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/CountingSort.java)			          																										                       					   |
+|   13   | [Floyd Cycle-Finding Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/HappyNumber.java)			          																										                       				   |
 
 ### Data Structures
 
@@ -38,7 +39,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   [Codewars](https://www.codewars.com/)          |            [41](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/codewars)         |
 |   [Hackerearth](https://www.hackerearth.com/)    |            [19](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerearth)      |
 |   [Hackerrank](https://www.hackerrank.com/)      |            [1](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerrank)        |
-|   [Leetcode](https://leetcode.com/)              |            [14](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)         |     
+|   [Leetcode](https://leetcode.com/)              |            [15](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)         |     
 
 ### Company Hiring Challenges
 
