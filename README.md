@@ -31,6 +31,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |  [Bit Manipulation](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/BITManipulation)    |            12             |
 |  [Strings](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/String)                      |            6              |
 |  [Math](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Math)							  |            4              |
+|  [Trie](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Trie)							  |            0              |
 
 ### Different Coding Sites
 
