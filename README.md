@@ -22,13 +22,14 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   11   | [Rabin Karp Pattern Search Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/RabinKarpAlgorithm.java)			          																										                       |
 |   12   | [Counting Sort Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/algorithms/CountingSort.java)			          																										                       					   |
 |   13   | [Floyd Cycle-Finding Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/HappyNumber.java)			          																										                       				   |
+|   14   | [Brian Kernighan’s Algorithm](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/BITManipulation/CountSetBits.java)			          																										                   |
 
 ### Data Structures
 
 |                                                         Topic Name                                                              |	Number of Problems Solved |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|
 |  [Arrays](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Array)                        |            16             | 
-|  [Bit Manipulation](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/BITManipulation)    |            13             |
+|  [Bit Manipulation](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/BITManipulation)    |            16             |
 |  [Strings](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/String)                      |            6              |
 |  [Math](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Math)							  |            4              |
 |  [Trie](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Trie)							  |            0              |
