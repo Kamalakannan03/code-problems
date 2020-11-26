@@ -33,6 +33,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |  [Strings](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/String)                      |            6              |
 |  [Math](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Math)							  |            4              |
 |  [Trie](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Trie)							  |            0              |
+|  [Hashing](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/datastructures/Hashing)					  |            1              |
 
 ### Different Coding Sites
 
@@ -42,7 +43,7 @@ This is my repo full of code problems that I'm currently practicing prior to or 
 |   [Hackerearth](https://www.hackerearth.com/)                            |            [19](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerearth)      		 |
 |   [Hackerrank](https://www.hackerrank.com/)                              |            [1](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/hackerrank)        		 |
 |   [Leetcode](https://leetcode.com/)                                      |            [16](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode)         		 |     
-|   [Leetcode Top Interview Questions](https://leetcode.com/)              |            [1](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/topIntQuests)      |
+|   [Leetcode Top Interview Questions](https://leetcode.com/)              |            [2](https://github.com/pgeek92/code-problems/tree/master/coding-problems/src/leetcode/topIntQuests)      |
 
 ### Company Hiring Challenges
 
